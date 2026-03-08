@@ -1,3 +1,2 @@
-#!/bin/bash
-docker buildx build . --network host -t soberdev 
-# --no-cache
+#!env bash
+docker buildx build . --network host -t dev 
