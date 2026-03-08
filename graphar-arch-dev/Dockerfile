@@ -1,4 +1,4 @@
-FROM soberdev
+FROM dev
 LABEL maintainer="Jinye Wu <github@jinyewu.org>"
 
 USER root
